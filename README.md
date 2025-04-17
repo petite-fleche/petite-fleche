@@ -19,12 +19,12 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Four Leaf Clover" width="55" height="55" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="50" height="50" />
 </div>
-
-<!-- Dynamic Skills Logo -->
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="72" style="width: 72px; height: 72px; margin-right: 0px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /></div>
-</div>
-
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
